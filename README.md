@@ -16,6 +16,7 @@
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## OUTPUT:
+
 BASE: A base or a build plate is an essential component in the FDM process. It serves as the foundation on which the object is built layer by layer. The base is typically a flat surface that provides stability and adhesion for the printed part during the printing process.
 
 EXTRUDER: The extruder is a fundamental component of a 3D printer. It is responsible for depositing and shaping the molten thermoplastic filament used to build the object layer by layer.
