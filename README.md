@@ -16,6 +16,8 @@
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## OUTPUT:
+![Screenshot (62)](https://github.com/jayasridodda/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/123259278/ecbd39aa-f6e2-4578-bc24-2d1e075ef7ed)
+
 
 BASE: A base or a build plate is an essential component in the FDM process. It serves as the foundation on which the object is built layer by layer. The base is typically a flat surface that provides stability and adhesion for the printed part during the printing process.
 
